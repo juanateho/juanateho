@@ -38,9 +38,5 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos personales y 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanateho)
 [![Sitio Web](https://img.shields.io/badge/-Portafolio-000?logo=firefox-browser&logoColor=white)](https://juanateho.github.io/)
 
----
-
-Gracias por visitar mi perfil 😊 ¡Si te interesan mis proyectos, no dudes en dejar una estrella ⭐ o contactarme!
-
 
 
